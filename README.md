@@ -23,7 +23,10 @@ Deploy App on Vercel
 
 Setup .env file
 🔑 Environment Variables
+
 VITE_GOOGLE_PLACES_API_KEY
+
 VITE_GOOGLE_GEMINI_AI_API_KEY
+
 VITE_GOOGLE_AUTH_CLIENT_ID
 
