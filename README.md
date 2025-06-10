@@ -1,3 +1,5 @@
+Live Link: https://travelblueprintai.wasif.dpdns.org/
+
 # TravelBlueprint.ai
 
 Welcome to the **TravelBlueprint.ai** project repository! This project is an AI-powered trip planning application that simplifies travel planning by providing personalized itineraries tailored to user preferences. The platform leverages cutting-edge AI technologies to curate trips, ensuring a seamless and hassle-free travel experience.
